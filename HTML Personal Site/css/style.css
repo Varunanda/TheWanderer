@@ -1,0 +1,36 @@
+  body {
+    Background-color: #ffd98e;
+  }
+
+  hr {
+    border-color: #ffb677;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #ff8364;
+    font-family: Trebuchet;
+    font-size: 200%
+  }
+
+  h3 {
+    color: #ff8364;
+    font-family: Helvetica;
+    font-size: 140%
+  }
+
+  p {
+    color: #57a99a;
+  }
+
+  table {
+    color: #7a4d1d;
+  }
+
+ul{
+  color:#7a4d1d;
+}
+
+a {color:#216353;}
